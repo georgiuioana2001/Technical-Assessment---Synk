@@ -1,4 +1,4 @@
-public class Main1 {
+public class problem8 {
         public static void main(String[] args) {
             String plaintext = "if man was meant to stay on the ground god would have given us roots.";
             String encrypted = encryptText(plaintext);

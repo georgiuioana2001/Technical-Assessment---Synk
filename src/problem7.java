@@ -1,4 +1,4 @@
-public class Main {
+public class problem7 {
     public static void printStaircase(int n) {
         for (int i = 1; i <= n; i++) {
             String spaces = " ".repeat(n - i);
